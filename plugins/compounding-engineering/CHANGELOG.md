@@ -5,6 +5,13 @@ All notable changes to the compounding-engineering plugin will be documented in 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.1] - 2024-11-24
+
+### Added
+
+- `CLAUDE.md` - Project instructions with versioning requirements and pre-commit checklist
+- `docs/solutions/plugin-versioning-requirements.md` - Detailed workflow documentation for maintaining version, CHANGELOG, and README in sync
+
 ## [2.0.0] - 2024-11-24
 
 Major reorganization consolidating agents, commands, and skills from multiple sources into a single, well-organized plugin.
